@@ -39,7 +39,7 @@ For both folders G_AB and G_BA .csv have been separated because G_ab moves from 
 
 ## Author Dataset 
 
-It cointains 3 subfolders described as it follows: 
+It cointains 3 subfolders described as it follows. As a general indication the Deberta version of the code has not been attached since it can be easily be obtained from the attached one.  
 
 ### 00.Dataset
 It contains files that have created during file preprocessing step: like the Amazon sample GAN and Classifier Files have been separated.
