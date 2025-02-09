@@ -13,6 +13,9 @@ Both folders contains:
 2. Colab jupyther notebooks that have been used to produce datasets, to train  classifiers and to train GANs.
 3. Output CSV
 
+As a general indication "colab" specific paths have not been updated and are still in the last version we used them.
+For reproducibility purposes they need to be updated. 
+
 ## Amazon Dataset
 
 It cointains 3 subfolders described as it follows: 
